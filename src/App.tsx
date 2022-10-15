@@ -10,7 +10,7 @@ export function App() {
       <Button>Teste</Button>
       <TextInput.Root>
         <TextInput.Icon>
-          <Envelope />
+          <Envelope weight='thin' />
         </TextInput.Icon>
           <TextInput.Input
           placeholder='Type your email address' />
